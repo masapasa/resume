@@ -2,35 +2,33 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
+  first: Aswin
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Pyakurel
+about: Exprienced in building end to end machine learning systems using both statitical methods and deep learning. 
+position: Machine Learning Engineer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1983
+  location: Nepal
 
 # you may add more experiences by duplicating the template
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: Nubri
+  position: Machine Learning Engineer
+  timeperiod: since July 2019
+  description: Implemented DietNeRF, a variant of NeRF (Neural Radiance Field) designed for few-shot learning of 3D scene reconstruction using a single-view generative model.
+  website: https://www.notion.so/Putting-NeRF-on-a-Diet-e0caecea0c2b40c3996c83205baf870d
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Max Planck Institute for Molecular Genetics, Berlin.
+  position: Post-doctoral fellow
+  timeperiod: Oct 2017 - Jan 2019
+  description: Created machine learning model for the identification of lymphoma nodes.
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
+- company: University of Lausanne
+  position: Post-doctoral fellow
+  timeperiod: Nov 2014 - Sep 2017
   description: Making coffee and baking cookies.
 
 education:
